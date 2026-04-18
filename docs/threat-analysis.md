@@ -46,6 +46,8 @@ A Remote Access Trojan (RAT) is a type of malware that allows attackers to remot
 * Trust in unknown source
 
 ---
+## 🔄 Attack Lifecycle
+![Lifecycle](../diagrams/lifecycle.png)
 
 ## 🔒 Severity Level
 
