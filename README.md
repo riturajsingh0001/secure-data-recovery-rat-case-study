@@ -136,6 +136,9 @@ This project is intended for educational and ethical cybersecurity purposes only
 
 ---
 
+## 📊 Workflow Diagram
+![Workflow](diagrams/workflow.png)
+
 ## 📎 Tags
 
 `Cybersecurity` `Digital Forensics` `Malware Analysis` `Linux` `Incident Response`
